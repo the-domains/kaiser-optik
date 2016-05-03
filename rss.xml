@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Kaiser Optik]]></title>
         <description><![CDATA[Kaiser Optik]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/kaiser-optik/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 03 May 2016 15:34:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 03 May 2016 15:40:45 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kaiser-optik/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Montag: ganzer Tag geschlossen Di - Fr: 08:00 - 12:00 Uhr, 13:30 - 18:30 Uhr Samstag: 08:00 - 14:00 Uhr durchgehend</p>]]></description>
+            <link>https://thegrid.ai/kaiser-optik/montag-ganzer-tag-geschlossen-di-fr-0800-1200-uhr-1/index.html</link>
+            <guid isPermaLink="false">fee0351a-1bf9-4854-9d76-63dec0a3157f</guid>
+            <pubDate>Tue, 03 May 2016 15:39:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Orgreen]]></title>
             <description><![CDATA[<p> ØRGREEN</p>]]></description>
-            <link>undefinedorgreen/index.html</link>
+            <link>https://thegrid.ai/kaiser-optik/orgreen/index.html</link>
             <guid isPermaLink="false">55a5da88-8dd2-4720-9433-de00b1b87435</guid>
             <pubDate>Tue, 03 May 2016 15:34:32 GMT</pubDate>
         </item>
